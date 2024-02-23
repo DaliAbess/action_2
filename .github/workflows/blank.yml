@@ -34,5 +34,5 @@ jobs:
         run: |
           lsb_release -a 
           free
-          sleep 100
+          sleep 40
 
